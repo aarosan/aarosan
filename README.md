@@ -11,7 +11,7 @@ I'm a software engineer who finds joy in teaching and creating accessible tools 
 - **Cloud:** AWS, Azure
 
 ## Projects
-- **[Grocery Grid](grocerygrid.netlify.app):** Easily log in, add your favorite meals, plan your weekly menu, and generate a shopping list with the ingredients you need
+- **[Grocery Grid](https://grocerygrid.netlify.app/login):** Easily log in, add your favorite meals, plan your weekly menu, and generate a shopping list with the ingredients you need
 - **[Frontend Stack Automation](https://github.com/aarosan/frontend-stack-automation):** Automate the setup of frontend projects using popular tech stacks: MERN, MEVN, and MEAN.
 
 ## Get In Touch
